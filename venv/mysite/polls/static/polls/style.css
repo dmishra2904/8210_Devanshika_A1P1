@@ -1,0 +1,15 @@
+li a {
+    color: orangered;
+}
+
+.index {
+    background: blueviolet url("images/background.gif") center no-repeat;
+}
+
+.detail {
+    background: blueviolet url("images/detail.gif") center no-repeat;
+}
+
+.results {
+    background: blueviolet url("images/results.gif") center no-repeat;
+}
